@@ -17,7 +17,7 @@ public class Main {
 
         //setter
         sakura.setSpecie("Prunus avium (cireș european)");
-        onigiri.setUmplutura("Ou");
+        onigiri.setUmplutura("Kimchi");
         yukata.setImprimeu("Floral");
         anime.setGen("Drama");
 
